@@ -18,7 +18,7 @@ BIRD_IMAGE=https://i.ibb.co/42WNxRN/reshot-icon-bird-TL39-D5-P8-YH.png
 REACT_APP_REFRESH_TIMER=30
 ```
 
-### `npm instal`
+### `npm install`
 
 To populate and install the required dependencies for the project.
 
