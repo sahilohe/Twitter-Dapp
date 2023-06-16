@@ -4,7 +4,8 @@
 
 Create a `.env` file in the project folder and fill in these values
 
-`ALCHEMY_KEY=<your_wss_provider_from_quicknode>
+`
+ALCHEMY_KEY=<your_wss_provider_from_quicknode>
 
 CONTRACT_ADDRESS=<contract_address_you_deployed>
 
@@ -24,7 +25,8 @@ AUTH0_DOMAIN=<AUTH0_DOMAIN_FROM_AUTH0>
 
 BIRD_IMAGE=https://i.ibb.co/42WNxRN/reshot-icon-bird-TL39-D5-P8-YH.png
 
-REACT_APP_REFRESH_TIMER=30`
+REACT_APP_REFRESH_TIMER=30
+`
 
 ### `npm start`
 
